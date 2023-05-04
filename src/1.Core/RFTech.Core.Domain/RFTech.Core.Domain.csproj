@@ -12,7 +12,6 @@
 	</ItemGroup>
 
 	<ItemGroup>
-	  <Folder Include="Comments\Entities\" />
 	  <Folder Include="Comments\ValueObjects\" />
 	  <Folder Include="Courses\Entities\" />
 	  <Folder Include="Courses\ValueObjects\" />
