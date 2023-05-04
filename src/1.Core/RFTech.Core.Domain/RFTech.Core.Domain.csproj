@@ -1,0 +1,27 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<TargetFramework>net7.0</TargetFramework>
+		<ImplicitUsings>enable</ImplicitUsings>
+		<Nullable>enable</Nullable>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<PackageReference Include="Zamin.Core.Domain" Version="7.1.0-beta.1" />
+		<PackageReference Include="Zamin.Core.Domain.Toolkits" Version="7.1.0-beta.1" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <Folder Include="Comments\Entities\" />
+	  <Folder Include="Comments\ValueObjects\" />
+	  <Folder Include="Courses\Entities\" />
+	  <Folder Include="Courses\ValueObjects\" />
+	  <Folder Include="Ratings\" />
+	  <Folder Include="Notifications\" />
+	  <Folder Include="Orders\Entities\" />
+	  <Folder Include="Orders\ValueObjects\" />
+	  <Folder Include="Users\Entities\" />
+	  <Folder Include="Users\ValueObjects\" />
+	</ItemGroup>
+
+</Project>
