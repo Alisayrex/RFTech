@@ -16,7 +16,6 @@
 	  <Folder Include="Courses\ValueObjects\" />
 	  <Folder Include="Discounts\ValueObjects\" />
 	  <Folder Include="Menus\ValueObjects\" />
-	  <Folder Include="Site\Entities\" />
 	  <Folder Include="Site\ValueObjects\" />
 	  <Folder Include="Notifications\ValueObjects\" />
 	  <Folder Include="Orders\ValueObjects\" />
@@ -24,7 +23,6 @@
 	  <Folder Include="Searches\ValueObjects\" />
 	  <Folder Include="Tags\ValueObjects\" />
 	  <Folder Include="Users\ValueObjects\" />
-	  <Folder Include="Workshop\Entities\" />
 	  <Folder Include="Workshop\ValueObjects\" />
 	</ItemGroup>
 
