@@ -22,6 +22,8 @@
 	  <Folder Include="Orders\ValueObjects\" />
 	  <Folder Include="Ratings\Entities\" />
 	  <Folder Include="Ratings\ValueObjects\" />
+	  <Folder Include="Searches\Entities\" />
+	  <Folder Include="Searches\ValueObjects\" />
 	  <Folder Include="Users\Entities\" />
 	  <Folder Include="Users\ValueObjects\" />
 	</ItemGroup>
