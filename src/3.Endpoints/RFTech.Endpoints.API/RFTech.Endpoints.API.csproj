@@ -49,10 +49,13 @@
 	  <Folder Include="Endpoints\Comments\" />
 	  <Folder Include="Endpoints\Courses\" />
 	  <Folder Include="Endpoints\Discounts\" />
+	  <Folder Include="Endpoints\Menus\" />
 	  <Folder Include="Endpoints\Notifications\" />
 	  <Folder Include="Endpoints\Orders\" />
 	  <Folder Include="Endpoints\Ratings\" />
 	  <Folder Include="Endpoints\Searches\" />
+	  <Folder Include="Endpoints\Site\" />
+	  <Folder Include="Endpoints\Tags\" />
 	  <Folder Include="Endpoints\Users\" />
 	  <Folder Include="Endpoints\Workshop\" />
 	</ItemGroup>

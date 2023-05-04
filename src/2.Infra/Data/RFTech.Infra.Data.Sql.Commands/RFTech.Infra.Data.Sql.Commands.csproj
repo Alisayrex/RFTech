@@ -20,10 +20,13 @@
 	  <Folder Include="Comments\" />
 	  <Folder Include="Courses\" />
 	  <Folder Include="Discounts\" />
+	  <Folder Include="Menus\" />
 	  <Folder Include="Notifications\" />
 	  <Folder Include="Orders\" />
 	  <Folder Include="Ratings\" />
 	  <Folder Include="Searches\" />
+	  <Folder Include="Site\" />
+	  <Folder Include="Tags\" />
 	  <Folder Include="Users\" />
 	  <Folder Include="Workshop\" />
 	</ItemGroup>

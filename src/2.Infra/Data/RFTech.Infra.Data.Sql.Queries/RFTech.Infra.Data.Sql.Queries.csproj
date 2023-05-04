@@ -20,6 +20,7 @@
     <Folder Include="Courses\Entities\" />
     <Folder Include="Courses\ValueObjects\" />
     <Folder Include="Discounts\" />
+    <Folder Include="Menus\" />
     <Folder Include="Notifications\Entities\" />
     <Folder Include="Notifications\ValueObjects\" />
     <Folder Include="Orders\Entities\" />
@@ -28,6 +29,8 @@
     <Folder Include="Ratings\ValueObjects\" />
     <Folder Include="Searches\Entities\" />
     <Folder Include="Searches\ValueObjects\" />
+    <Folder Include="Site\" />
+    <Folder Include="Tags\" />
     <Folder Include="Users\Entities\" />
     <Folder Include="Users\ValueObjects\" />
     <Folder Include="Workshop\" />
