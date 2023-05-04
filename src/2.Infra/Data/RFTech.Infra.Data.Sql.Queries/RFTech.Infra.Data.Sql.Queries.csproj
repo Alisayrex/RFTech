@@ -19,6 +19,7 @@
     <Folder Include="Comments\ValueObjects\" />
     <Folder Include="Courses\Entities\" />
     <Folder Include="Courses\ValueObjects\" />
+    <Folder Include="Discounts\" />
     <Folder Include="Notifications\Entities\" />
     <Folder Include="Notifications\ValueObjects\" />
     <Folder Include="Orders\Entities\" />
@@ -29,6 +30,7 @@
     <Folder Include="Searches\ValueObjects\" />
     <Folder Include="Users\Entities\" />
     <Folder Include="Users\ValueObjects\" />
+    <Folder Include="Workshop\" />
   </ItemGroup>
 
 </Project>

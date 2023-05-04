@@ -18,11 +18,13 @@
 	<ItemGroup>
 	  <Folder Include="Comments\" />
 	  <Folder Include="Courses\" />
+	  <Folder Include="Discounts\" />
 	  <Folder Include="Notifications\" />
 	  <Folder Include="Orders\" />
 	  <Folder Include="Ratings\" />
 	  <Folder Include="Searches\" />
 	  <Folder Include="Users\" />
+	  <Folder Include="Workshop\" />
 	</ItemGroup>
 
 </Project>
