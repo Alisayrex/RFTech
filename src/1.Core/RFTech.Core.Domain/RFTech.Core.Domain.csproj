@@ -16,10 +16,12 @@
 	  <Folder Include="Comments\ValueObjects\" />
 	  <Folder Include="Courses\Entities\" />
 	  <Folder Include="Courses\ValueObjects\" />
-	  <Folder Include="Ratings\" />
-	  <Folder Include="Notifications\" />
+	  <Folder Include="Notifications\Entities\" />
+	  <Folder Include="Notifications\ValueObjects\" />
 	  <Folder Include="Orders\Entities\" />
 	  <Folder Include="Orders\ValueObjects\" />
+	  <Folder Include="Ratings\Entities\" />
+	  <Folder Include="Ratings\ValueObjects\" />
 	  <Folder Include="Users\Entities\" />
 	  <Folder Include="Users\ValueObjects\" />
 	</ItemGroup>

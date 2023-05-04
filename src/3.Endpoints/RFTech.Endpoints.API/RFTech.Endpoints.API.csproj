@@ -45,4 +45,19 @@
 	  <ProjectReference Include="..\..\2.Infra\Data\RFTech.Infra.Data.Sql.Queries\RFTech.Infra.Data.Sql.Queries.csproj" />
 	</ItemGroup>
 
+	<ItemGroup>
+	  <Folder Include="Endpoints\Comments\Entities\" />
+	  <Folder Include="Endpoints\Comments\ValueObjects\" />
+	  <Folder Include="Endpoints\Courses\Entities\" />
+	  <Folder Include="Endpoints\Courses\ValueObjects\" />
+	  <Folder Include="Endpoints\Notifications\Entities\" />
+	  <Folder Include="Endpoints\Notifications\ValueObjects\" />
+	  <Folder Include="Endpoints\Orders\Entities\" />
+	  <Folder Include="Endpoints\Orders\ValueObjects\" />
+	  <Folder Include="Endpoints\Ratings\Entities\" />
+	  <Folder Include="Endpoints\Ratings\ValueObjects\" />
+	  <Folder Include="Endpoints\Users\Entities\" />
+	  <Folder Include="Endpoints\Users\ValueObjects\" />
+	</ItemGroup>
+
 </Project>
