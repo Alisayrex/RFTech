@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using Zamin.EndPoints.Web.Controllers;
 using RFTech.Core.Contracts.Blogs.Commands.CreateBlog;
+using Zamin.EndPoints.Web.Controllers;
 
 namespace RFTech.Endpoints.API.Blogs;
 

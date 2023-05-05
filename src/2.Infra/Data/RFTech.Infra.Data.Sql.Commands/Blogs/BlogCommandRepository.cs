@@ -1,7 +1,6 @@
-﻿using Zamin.Infra.Data.Sql.Commands;
-using RFTech.Core.Contracts.Blogs.Commands;
-using RFTech.Core.Domain.Blogs.Entities;
+﻿using RFTech.Core.Contracts.Blogs.Commands;
 using RFTech.Infra.Data.Sql.Commands.Common;
+using Zamin.Infra.Data.Sql.Commands;
 
 namespace RFTech.Infra.Data.Sql.Commands.Blogs;
 

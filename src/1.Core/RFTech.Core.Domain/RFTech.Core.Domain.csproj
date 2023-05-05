@@ -15,6 +15,7 @@
 	  <Folder Include="Comments\ValueObjects\" />
 	  <Folder Include="Courses\ValueObjects\" />
 	  <Folder Include="Discounts\ValueObjects\" />
+	  <Folder Include="Languages\ValueObjects\" />
 	  <Folder Include="Menus\ValueObjects\" />
 	  <Folder Include="Site\ValueObjects\" />
 	  <Folder Include="Notifications\ValueObjects\" />

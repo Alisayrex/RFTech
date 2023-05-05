@@ -20,6 +20,7 @@
 	  <Folder Include="Comments\" />
 	  <Folder Include="Courses\" />
 	  <Folder Include="Discounts\" />
+	  <Folder Include="Languages\" />
 	  <Folder Include="Menus\" />
 	  <Folder Include="Notifications\" />
 	  <Folder Include="Orders\" />

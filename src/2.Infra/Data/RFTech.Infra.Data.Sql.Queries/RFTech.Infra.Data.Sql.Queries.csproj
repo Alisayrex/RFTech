@@ -20,6 +20,7 @@
     <Folder Include="Courses\Entities\" />
     <Folder Include="Courses\ValueObjects\" />
     <Folder Include="Discounts\" />
+    <Folder Include="Languages\" />
     <Folder Include="Menus\" />
     <Folder Include="Notifications\Entities\" />
     <Folder Include="Notifications\ValueObjects\" />

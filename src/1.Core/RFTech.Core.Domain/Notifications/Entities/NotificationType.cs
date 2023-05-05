@@ -1,12 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using Zamin.Core.Domain.Entities;
 
 namespace RFTech.Core.Domain.Notifications.Entities
 {
-    internal class NotificationType
+    public class NotificationType : Entity
     {
     }
 }

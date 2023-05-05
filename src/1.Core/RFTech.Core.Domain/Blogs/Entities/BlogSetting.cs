@@ -2,7 +2,7 @@
 
 namespace RFTech.Core.Domain.Blogs.Entities
 {
-    public class Category : Entity
+    public class BlogSetting : Entity
     {
     }
 }

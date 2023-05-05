@@ -1,5 +1,4 @@
-﻿using Swashbuckle.AspNetCore.SwaggerUI;
-using RFTech.Endpoints.API.Extentions.DependencyInjection.IdentityServer.Options;
+﻿using RFTech.Endpoints.API.Extentions.DependencyInjection.IdentityServer.Options;
 
 namespace RFTech.Endpoints.DependencyInjection;
 

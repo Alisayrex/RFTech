@@ -49,6 +49,7 @@
 	  <Folder Include="Endpoints\Comments\" />
 	  <Folder Include="Endpoints\Courses\" />
 	  <Folder Include="Endpoints\Discounts\" />
+	  <Folder Include="Endpoints\Languages\" />
 	  <Folder Include="Endpoints\Menus\" />
 	  <Folder Include="Endpoints\Notifications\" />
 	  <Folder Include="Endpoints\Orders\" />

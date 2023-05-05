@@ -1,6 +1,6 @@
-﻿using Zamin.Extensions.DependencyInjection;
+﻿using RFTech.Endpoints.API.Extentions;
+using Zamin.Extensions.DependencyInjection;
 using Zamin.Utilities.SerilogRegistration.Extensions;
-using RFTech.Endpoints.API.Extentions;
 
 SerilogExtensions.RunWithSerilogExceptionHandling(() =>
 {

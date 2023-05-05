@@ -1,7 +1,7 @@
 ﻿using FluentValidation;
+using RFTech.Core.Contracts.Blogs.Commands.CreateBlog;
 using Zamin.Core.Domain.Toolkits.ValueObjects;
 using Zamin.Extensions.Translations.Abstractions;
-using RFTech.Core.Contracts.Blogs.Commands.CreateBlog;
 
 namespace RFTech.Core.ApplicationService.Blogs.Commands.CreateBlog;
 

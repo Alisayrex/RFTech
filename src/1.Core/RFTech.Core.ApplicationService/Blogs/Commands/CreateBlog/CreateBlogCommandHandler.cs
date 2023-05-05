@@ -1,9 +1,8 @@
-﻿using Zamin.Core.ApplicationServices.Commands;
+﻿using RFTech.Core.Contracts.Blogs.Commands;
+using RFTech.Core.Contracts.Blogs.Commands.CreateBlog;
+using Zamin.Core.ApplicationServices.Commands;
 using Zamin.Core.Contracts.ApplicationServices.Commands;
 using Zamin.Utilities;
-using RFTech.Core.Contracts.Blogs.Commands;
-using RFTech.Core.Contracts.Blogs.Commands.CreateBlog;
-using RFTech.Core.Domain.Blogs.Entities;
 
 namespace RFTech.Core.ApplicationService.Blogs.Commands.CreateBlog;
 
