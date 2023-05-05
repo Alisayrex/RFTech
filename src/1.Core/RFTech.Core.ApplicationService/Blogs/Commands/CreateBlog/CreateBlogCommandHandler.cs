@@ -1,5 +1,6 @@
 ﻿using RFTech.Core.Contracts.Blogs.Commands;
 using RFTech.Core.Contracts.Blogs.Commands.CreateBlog;
+using RFTech.Core.Domain.Blogs.Entities;
 using Zamin.Core.ApplicationServices.Commands;
 using Zamin.Core.Contracts.ApplicationServices.Commands;
 using Zamin.Utilities;
@@ -17,14 +18,19 @@ public class CreateBlogCommandHandler : CommandHandler<CreateBlogCommand>
         _blogCommandRepository = blogCommandRepository;
     }
 
-    public override async Task<CommandResult> Handle(CreateBlogCommand request)
+    public override Task<CommandResult> Handle(CreateBlogCommand command)
     {
-        Blog blog = new(request.BusunessId, request.Title, request.Description);
-
-        await _blogCommandRepository.InsertAsync(blog);
-
-        await _blogCommandRepository.CommitAsync();
-
-        return await OkAsync();
+        throw new NotImplementedException();
     }
+
+    //public override async Task<CommandResult> Handle(CreateBlogCommand request)
+    ////{
+    ////    BlogPost blog = new(request.BusunessId, request.Title, request.Description);
+
+    ////    await _blogCommandRepository.InsertAsync(blog);
+
+    ////    await _blogCommandRepository.CommitAsync();
+
+    //    return await OkAsync();
+    //}
 }

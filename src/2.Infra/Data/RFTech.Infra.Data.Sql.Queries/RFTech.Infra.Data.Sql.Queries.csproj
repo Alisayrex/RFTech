@@ -15,25 +15,19 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Comments\Entities\" />
-    <Folder Include="Comments\ValueObjects\" />
-    <Folder Include="Courses\Entities\" />
-    <Folder Include="Courses\ValueObjects\" />
+    <Folder Include="Comments\" />
+    <Folder Include="Courses\" />
     <Folder Include="Discounts\" />
     <Folder Include="Languages\" />
     <Folder Include="Menus\" />
-    <Folder Include="Notifications\Entities\" />
-    <Folder Include="Notifications\ValueObjects\" />
-    <Folder Include="Orders\Entities\" />
-    <Folder Include="Orders\ValueObjects\" />
-    <Folder Include="Ratings\Entities\" />
-    <Folder Include="Ratings\ValueObjects\" />
-    <Folder Include="Searches\Entities\" />
-    <Folder Include="Searches\ValueObjects\" />
+    <Folder Include="Blogs\" />
+    <Folder Include="Notifications\" />
+    <Folder Include="Orders\" />
+    <Folder Include="Ratings\" />
+    <Folder Include="Searches\" />
     <Folder Include="Site\" />
     <Folder Include="Tags\" />
-    <Folder Include="Users\Entities\" />
-    <Folder Include="Users\ValueObjects\" />
+    <Folder Include="Users\" />
     <Folder Include="Workshop\" />
   </ItemGroup>
 
